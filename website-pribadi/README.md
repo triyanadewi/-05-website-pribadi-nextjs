@@ -68,8 +68,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ![Persiapan Lingkungan 6](img/prak1-6.png)
 
 7. Jalankan aplikasi Next.js: <br>
-![Persiapan Lingkungan 7](img/prak1-7.png)
-<br>
+![Persiapan Lingkungan 7](img/prak1-7.png)<br>
 Aplikasi akan terbuka di browser pada alamat http://localhost:3000. Namun pada praktikum ini hasilnya masih error<br>
 ![Hasil Praktikum 1](img/prak1-hasil.png)
 
@@ -119,20 +118,18 @@ Layout digunakan untuk menyediakan struktur yang konsisten di seluruh halaman, s
 ![Membuat Layout dan Navigasi 4](img/prak3-4.png)
 
 6. Update setiap halaman menambahkan metadata dengan generateMetadata: <br>
-![Membuat Layout dan Navigasi 5](img/prak3-5.png)
-<br>
+![Membuat Layout dan Navigasi 5](img/prak3-5.png)<br>
 Lakukan hal yang sama untuk halaman projects/page.tsx dan essays/page.tsx.<br>
 ![Membuat Layout dan Navigasi 6](img/prak3-6.png) 
 <br>
-![Membuat Layout dan Navigasi 7](img/prak3-7.png)
-<br>
+![Membuat Layout dan Navigasi 7](img/prak3-7.png)<br>
 
-    **Hasil Tampilan Halaman "Tentang Saya"** <br>
-    ![Membuat Layout dan Navigasi 7](img/prak3-hasil1.png) <br> 
-    **Hasil Tampilan Halaman "Proyek"** <br>
-    ![Membuat Layout dan Navigasi 7](img/prak3-hasil2.png) <br>
-    **Hasil Tampilan Halaman "Esai"** <br>
-    ![Membuat Layout dan Navigasi 7](img/prak3-hasil3.png) 
+- **Hasil Tampilan Halaman "Tentang Saya"** <br>
+![Membuat Layout dan Navigasi 7](img/prak3-hasil1.png) <br> 
+- **Hasil Tampilan Halaman "Proyek"** <br>
+![Membuat Layout dan Navigasi 7](img/prak3-hasil2.png) <br>
+- **Hasil Tampilan Halaman "Esai"** <br>
+![Membuat Layout dan Navigasi 7](img/prak3-hasil3.png) 
 
 ---
 
@@ -144,11 +141,9 @@ Langkah-langkah:
 
 2. Modifikasi file app/projects/page.tsx: <br>
 Tambahkan import next/image dan beberapa image yang telah ditambahkan sebelumnya <br>
-![Membuat dengan Grid 2](img/prak4-2.png)
-<br>
+![Membuat dengan Grid 2](img/prak4-2.png)<br>
 Buat card project item sebagai berikut:<br>
-![Membuat dengan Grid 3](img/prak4-3.png)
-<br>
+![Membuat dengan Grid 3](img/prak4-3.png)<br>
 Modifikasi komponen project sebagai berikut: <br>
 ![Membuat dengan Grid 4](img/prak4-4.png)
  
