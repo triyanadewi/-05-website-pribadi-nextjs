@@ -120,8 +120,7 @@ Layout digunakan untuk menyediakan struktur yang konsisten di seluruh halaman, s
 6. Update setiap halaman menambahkan metadata dengan generateMetadata: <br>
 ![Membuat Layout dan Navigasi 5](img/prak3-5.png)<br>
 Lakukan hal yang sama untuk halaman projects/page.tsx dan essays/page.tsx.<br>
-![Membuat Layout dan Navigasi 6](img/prak3-6.png) 
-<br>
+![Membuat Layout dan Navigasi 6](img/prak3-6.png) <br>
 ![Membuat Layout dan Navigasi 7](img/prak3-7.png)<br>
 
 - **Hasil Tampilan Halaman "Tentang Saya"** <br>
