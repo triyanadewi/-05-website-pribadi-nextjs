@@ -4,12 +4,12 @@ type FooterLinkProps = {
 };
 
 function FooterLink({ text, url}: FooterLinkProps) { 
-    return <a className="transition hover: text-teal-500" href={url}>{text}</a>; 
+    return <a className="transition hover:text-teal-500" href={url}>{text}</a>; 
 }
 
 export default function Footer() { 
     return ( 
-        <footer className="pt-10 px-8 pb-16 border-t"> 
+        <footer className="mt-16 pt-10 px-8 pb-16 border-t"> 
             <div className="flex justify-between gap-6"> 
                 <div className="flex gap-6 text-sm font-medium text-zinc-600"> 
                     <FooterLink text="Tentang Saya" url="/" /> 

@@ -153,9 +153,19 @@ Modifikasi komponen project sebagai berikut: <br>
 
 ## Tugas 
 Eksplorasi Tailwindcss, kemudian. 
-1. Modifikasi halaman "Esai" dengan Grid daftar artikel yang telah ditulis. <br>
+### 1. Modifikasi halaman "Esai" dengan Grid daftar artikel yang telah ditulis. <br>
+Kode Program: <br>
+![Code no 1](img/t1-code.png) <br>
 
-2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik <br>
+Hasil Tampilan: <br>
+![Tugas no 1](img/t1-hasil.png)
+
+### 2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik <br>
+Kode Program: <br>
+![Code no 1](img/t1-code.png) <br>
+
+Hasil Tampilan: <br>
+![Tugas no 2](img/t2-hasil.png)
 
 ---
 
