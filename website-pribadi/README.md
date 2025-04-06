@@ -162,7 +162,7 @@ Hasil Tampilan: <br>
 
 ### 2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik <br>
 Kode Program: <br>
-![Code no 1](img/t1-code.png) <br>
+![Code no 1](img/t2-code.png) <br>
 
 Hasil Tampilan: <br>
 ![Tugas no 2](img/t2-hasil.png)
