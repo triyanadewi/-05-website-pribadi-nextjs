@@ -7,8 +7,8 @@ export const metadata: Metadata = {
   title: "Proyek",
   description: 'Halaman proyek.',
   openGraph: {
-    title: 'Proyek',
-    description: 'Halaman proyek.',
+    images: "http://localhost:3000/image/project.png",
+    url: "http://localhost:3000/project",
   },
 };
 

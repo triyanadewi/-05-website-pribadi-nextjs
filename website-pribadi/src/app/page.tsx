@@ -2,17 +2,18 @@ import type { Metadata } from "next";
 import Image, { StaticImageData } from 'next/image';
 import imageTriyana from '../../public/images/Triyana.jpg';
 import { FaLinkedin, FaGithub, FaEnvelope, FaPhone } from "react-icons/fa";
+import { defaultMetadata } from "../utils/metadata";
 
 export const metadata: Metadata = {
   title: "Tentang Saya",
   description: "Halaman tentang saya.",
   openGraph: {
-    title: "Tentang Saya",
-    description: "Halaman tentang saya.",
+    images: "http://localhost:3000/image/aboutme.png",
+    url: "http://localhost:3000/aboutme",
   },
 };
 
-export default function Home() {
+export default function Home({ metadata }: any) {
   return (
     <div className="max-w-6xl mx-auto mt-16 px-4 md:px-8 flex flex-col md:flex-row items-center md:items-start text-left space-y-6 md:space-y-0 md:space-x-6">      <Image
         src={imageTriyana}
