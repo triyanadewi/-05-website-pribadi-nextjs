@@ -2,7 +2,8 @@
 
 **Nama:** Triyana Dewi Fatmawati  <br>
 **NIM:** 2241720206  <br>
-**Mata Kuliah:** Pengembangan Aplikasi Berbasis Framework  <br>
+**Kelas:** TI 3D <br>
+**Mata Kuliah:** Pemrograman Berbasis Framework  <br>
 **Dosen Pengajar:** Imam Fahrur Rozi, S.T., M.T. <br>
 **Tahun Ajaran:** 2025  
 
