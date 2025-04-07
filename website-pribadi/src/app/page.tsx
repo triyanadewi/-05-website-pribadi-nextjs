@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
-import Image, { StaticImageData } from 'next/image';
+import Image from 'next/image';
 import imageTriyana from '../../public/images/Triyana.jpg';
 import { FaLinkedin, FaGithub, FaEnvelope, FaPhone } from "react-icons/fa";
-import { defaultMetadata } from "../utils/metadata";
 
 export const metadata: Metadata = {
   title: "Tentang Saya",
@@ -13,9 +12,10 @@ export const metadata: Metadata = {
   },
 };
 
-export default function Home({ metadata }: any) {
+export default function Home() {
   return (
-    <div className="max-w-6xl mx-auto mt-16 px-4 md:px-8 flex flex-col md:flex-row items-center md:items-start text-left space-y-6 md:space-y-0 md:space-x-6">      <Image
+    <div className="max-w-6xl mx-auto mt-16 px-4 md:px-8 flex flex-col md:flex-row items-center md:items-start text-left space-y-6 md:space-y-0 md:space-x-6">      
+      <Image
         src={imageTriyana}
         alt="Profile Picture"
         width={400}  
